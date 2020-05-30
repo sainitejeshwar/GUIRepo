@@ -1,0 +1,30 @@
+Script started on 2020-05-30 15:16:26+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="168" LINES="44"]
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git log[3Pexitclear[3Plsrm desktop.ini [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit log --oneline
+[?1h=[33m756ddf2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Added GitIgnore[m
+[33m8b71847[m Create README.md[m
+[33m5004f7e[m renamed init.py to main.py[m
+[33mb1f6cbb[m added init.py in Resources[m
+[33m8544b69[m Added main file in CSS and JS[m
+[33me308328[m Initial commit[m
+[K[?1l>]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ exit
+exit
+
+Script done on 2020-05-30 15:17:21+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2020-05-30 15:18:28+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="168" LINES="44"]
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ tree
+[34;42m.[00m
+├── [34;42mCSS[00m
+│   └── [01;32mmain.css[00m
+├── [34;42mJS[00m
+│   └── [01;32mmain.js[00m
+├── [01;32mREADME.md[00m
+├── [34;42mResources[00m
+│   └── [01;32mmain.py[00m
+├── [01;32mindex.html[00m
+└── [01;32mtypescript[00m
+
+3 directories, 6 files
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ exit
+exit
+
+Script done on 2020-05-30 15:18:38+05:30 [COMMAND_EXIT_CODE="0"]
