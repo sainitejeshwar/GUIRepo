@@ -28,3 +28,102 @@ Script started on 2020-05-30 15:18:28+05:30 [TERM="xterm-256color" TTY="/dev/tty
 exit
 
 Script done on 2020-05-30 15:18:38+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2020-05-30 15:28:31+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="168" LINES="44"]
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git dat[K[Ks[K[Kstatus
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .gitignore[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mtypescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git add .
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git commit -m ""A"d"d"e"d" "t"y"p"e"s"c"r"i"p"t" "t"o" "G"i"t"i"g"n"o"r"e"[C
+[master c457c83] Added typescript to Gitignore
+ 2 files changed, 31 insertions(+)
+ create mode 100644 typescript
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git log
+[?1h=[33mcommit c457c837c2b60836671798c39b5168dcfc41e6e0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: tejas <tejeshwar.saini7@gmial.com>[m
+Date:   Sat May 30 15:29:05 2020 +0530[m
+[m
+    Added typescript to Gitignore[m
+[m
+[33mcommit 756ddf29264f89ebffbcddac158b78db896a958e[m[33m ([m[1;31morigin/master[m[33m)[m[m
+Author: tejas <tejeshwar.saini7@gmial.com>[m
+Date:   Sat May 30 15:14:31 2020 +0530[m
+[m
+    Added GitIgnore[m
+[m
+[33mcommit 8b718473df6357b77e5c865fe0d9c89db6c0bc18[m[m
+Author: Tejeshwar Saini <tejeshwar.saini7@gmail.com>[m
+Date:   Sat May 30 15:11:17 2020 +0530[m
+[m
+    Create README.md[m
+[m
+[33mcommit 5004f7eb174ce5cd99f20a691a593bd8ff518eec[m[m
+Author: tejas <tejeshwar.saini7@gmial.com>[m
+Date:   Sat May 30 15:09:58 2020 +0530[m
+[m
+    renamed init.py to main.py[m
+[m
+[33mcommit b1f6cbb0ccd7f9e8369eb5ec53fa3ef45949797a[m[m
+Author: tejas <tejeshwar.saini7@gmial.com>[m
+Date:   Sat May 30 15:08:48 2020 +0530[m
+[m
+    added init.py in Resources[m
+[m
+[33mcommit 8544b69707e3923aeb4db6a449b7901cb1c67a65[m[m
+Author: tejas <tejeshwar.saini7@gmial.com>[m
+Date:   Sat May 30 15:04:44 2020 +0530[m
+[m
+    Added main file in CSS and JS[m
+[m
+[33mcommit e308328ce9e1a92a9ada868bc88ddec64d8e69c9[m[m
+Author: tejas <tejeshwar.saini7@gmial.com>[m
+Date:   Sat May 30 15:02:53 2020 +0530[m
+[m
+    Initial commit[m
+[K[?1l>]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git .[Kpush origin master
+Username for 'https://github.com': sainitejeshwar
+Password for 'https://sainitejeshwar@github.com': 
+Enumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 966 bytes | 483.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/sainitejeshwar/GUIRepo.git
+   756ddf2..c457c83  master -> master
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git log --oneline
+[?1h=[33mc457c83[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Added typescript to Gitignore[m
+[33m756ddf2[m Added GitIgnore[m
+[33m8b71847[m Create README.md[m
+[33m5004f7e[m renamed init.py to main.py[m
+[33mb1f6cbb[m added init.py in Resources[m
+[33m8544b69[m Added main file in CSS and JS[m
+[33me308328[m Initial commit[m
+[K[?1l>]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ exit
+exit
+
+Script done on 2020-05-30 15:29:48+05:30 [COMMAND_EXIT_CODE="0"]
+Test of Gitignore
+Script started on 2020-05-30 15:30:39+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="168" LINES="44"]
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ echo ""T"e"s"t" "o"f" "G"i"t"i"g"n"o"r"e"[C >> typescript 
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;tejas@Tejeshwar: /mnt/c/Users/Tejeshwar/Desktop/UI Project[01;32mtejas@Tejeshwar[00m:[01;34m/mnt/c/Users/Tejeshwar/Desktop/UI Project[00m$ exit
+exit
+
+Script done on 2020-05-30 15:31:17+05:30 [COMMAND_EXIT_CODE="0"]
